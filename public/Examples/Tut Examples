@@ -1,0 +1,6 @@
+A - PARTIALS
+    - Another file used inside another file
+    - Name starts with underscore i.e. _
+    - Loaded using render( ) Methods
+B - BOOTSTRAP
+    - 
